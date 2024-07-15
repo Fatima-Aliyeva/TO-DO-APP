@@ -40,9 +40,9 @@
     padding-right: 15px;
   }
 
-  .task input {
+  /* .task input {
     width: calc(100% - 100px);
-  }
+  } */
 
   .icon-h1 .icon i {
     font-size: 50px;
