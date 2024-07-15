@@ -1,0 +1,56 @@
+@media (max-width: 768px) {
+  .background {
+    height: 200px;
+  }
+
+  .icon-h1 h1 {
+    padding-top: 80px;
+    font-size: 45px !important;
+  }
+
+  .icon-h1 .icon i {
+    padding-top: 30px !important;
+  }
+  .container input {
+    width: 70%;
+    height: 45px;
+  }
+
+  .btn {
+    width: 50px;
+    height: 45px;
+    font-size: 12px;
+  }
+
+  .firstline {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    margin-right: 0px;
+  }
+
+  .task {
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .task {
+    grid-template-columns: 1fr 40px 50px;
+    padding-right: 15px;
+  }
+
+  .task input {
+    width: calc(100% - 100px);
+  }
+
+  .icon-h1 .icon i {
+    font-size: 50px;
+    padding-top: 60px;
+  }
+
+  .container h1 {
+    padding-top: 60px;
+    font-size: 30px;
+  }
+}
